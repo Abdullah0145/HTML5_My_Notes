@@ -1,0 +1,15 @@
+h2.header {
+    border: 3px solid black;
+}
+
+p.para1 {
+    border: 2px solid blueviolet;
+}
+
+p.para2 {
+    border: 2px solid green;
+}
+
+hr.hr {
+    border: 5px solid red;
+}
