@@ -1,5 +1,5 @@
 h2.header {
-    border: 3px solid black;
+    border: 5px solid black;
 }
 
 p.para1 {
@@ -12,4 +12,20 @@ p.para2 {
 
 hr.hr {
     border: 5px solid red;
+}
+
+li.list {
+    border: 2px solid green;
+}
+
+h3.header3 {
+    border: 2px solid green;
+}
+
+img.image {
+    border: 3px solid yellow;
+}
+
+video.video {
+    border: 3px solid crimson;
 }
